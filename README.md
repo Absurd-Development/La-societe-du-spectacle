@@ -24,16 +24,20 @@ TODO LIST
 =========
 
 User Interface :
-- [] liste des articles dans un chapitre
-- [] Centrer le numéro de chapitre
-- [] Allé directement à un paragrahe
+- [ ] Faire que le titre soit visible pleinement
+- [ ] liste des articles dans un chapitre
+- [ ] Centrer le numéro de chapitre
+- [ ] Allé directement à un paragrahe
+- [ ] Faire que le menue se ferme lorsqu'on clique sur un chapitre ou le bouton about
+- [ ] Décaller le bouton menue un peu plus bas
+- [ ] Mettre un "versionning" du programme
 
 Functionalité :
-- [] Afficher le nom du chapitre (et pas que son numéro)
-- [] Sauvegarde de la dernière page
+- [ ] Afficher le nom du chapitre (et pas que son numéro)
+- [ ] Sauvegarde de la dernière page
 
 BUGS :
-- [] N'affiche pas les pages de chapitres lorsqu'on clique sur "prev" & "next" 
+- [ ] N'affiche pas les pages de chapitres lorsqu'on clique sur "prev" & "next" 
 
 COMPILATION
 ============
