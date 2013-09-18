@@ -57,6 +57,10 @@ http://docs.phonegap.com/en/edge/guide_cli_index.md.html#The%20Command-line%20In
 * $ cordova --verbose compile --release android
 
 
+SIGNING 
+=======
+http://iphonedevlog.wordpress.com/2013/08/16/using-phonegap-3-0-cli-on-mac-osx-10-to-build-ios-and-android-projects/
+
 
 CONTACTS :
 ==========
