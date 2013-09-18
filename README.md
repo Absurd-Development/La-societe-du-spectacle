@@ -50,7 +50,7 @@ http://docs.phonegap.com/en/edge/guide_cli_index.md.html#The%20Command-line%20In
 * $ phonegap create . absurd.dev.lasocieteduspectacle LaSocieteDuSpectacle
 * $ phonegap build android
 * $ phonegap install android
-
+* $ cordova --verbose compile --release android
 
 
 
