@@ -172,7 +172,7 @@ function loadChap(numChap)
 
 function loadAbout()
 {
-    $('#numOfPara').html("Absurd Developpement");
-    $('#daText').html( "Developpé par Absurd Developpement <br />  Dans le but de tester <a href=\"http://jquerymobile.com/\">JQuery Mobile</a> , <a href=\"http://phonegap.com/\">PhoneGap</a> et vous faire découvrire <a href=\"http://fr.wikipedia.org/wiki/Guy_Debord\">Guy Debord</a>." );
+    $('#numOfPara').html("Absurd Development");
+    $('#daText').html( "Developpé par <a href=\"https://github.com/Absurd-Development\">Absurd Developement</a> <br />  Dans le but de tester <a href=\"http://jquerymobile.com/\">JQuery Mobile</a> , <a href=\"http://phonegap.com/\">PhoneGap</a> et vous faire découvrire <a href=\"http://fr.wikipedia.org/wiki/Guy_Debord\">Guy Debord</a>." );
 }
 
