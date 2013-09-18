@@ -23,16 +23,16 @@ Une version disponible sur le "google play store" est en reflexion.
 TODO LIST 
 =========
 
-User Interface
--[] liste des articles dans un chapitre
--[] Centrer le numéro de chapitre
--[] Allé directement à un paragrahe
+User Interface :
+- [] liste des articles dans un chapitre
+- [] Centrer le numéro de chapitre
+- [] Allé directement à un paragrahe
 
-Functionalité
+Functionalité :
 - [] Afficher le nom du chapitre (et pas que son numéro)
 - [] Sauvegarde de la dernière page
 
-BUGS
+BUGS :
 - [] N'affiche pas les pages de chapitres lorsqu'on clique sur "prev" & "next" 
 
 COMPILATION
