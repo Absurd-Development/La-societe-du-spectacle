@@ -12,3 +12,29 @@ Le but principal de ce "logiciel" est de tester une suite de framework / logicie
 * PhoneGap
 * Jquery Mobile
 * Json
+
+
+
+
+COMPILATION
+============
+
+Dependance :
+* PhoneGap
+* JRE / JDK
+* Android tools
+
+See : 
+http://docs.phonegap.com/en/edge/guide_cli_index.md.html#The%20Command-line%20Interface
+
+
+	phonegap create . absurd.dev.lasocieteduspectacle LaSocieteDuSpectacle
+	phonegap build android
+	phonegap install android
+
+
+
+
+CONTACTS :
+==========
+thomas(@)luquet(.)net
